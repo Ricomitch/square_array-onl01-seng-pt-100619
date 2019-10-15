@@ -1,9 +1,9 @@
 def square_array(array)
 square_array=[]  
-square_array.each do | array |
+square_array.each do | num |
   
-squared_array.push(array**2)
-  p array**2
+squared_array.push(num**2)
+  p num**2
 end
 squared_array
 end
