@@ -1,5 +1,6 @@
 def square_array(array)
 square_array=[]  
 square_array.each do | array |
-  puts "square_array #{array} is #{} "
+squared_array.push(array**2)
+  p array**2
 end
