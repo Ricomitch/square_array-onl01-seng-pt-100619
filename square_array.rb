@@ -5,4 +5,5 @@ square_array.each do | array |
 squared_array.push(array**2)
   p array**2
 end
+squared_array
 end
