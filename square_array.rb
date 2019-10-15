@@ -1,6 +1,6 @@
 def square_array(array)
 square_array=[]  
-array.each do | num |
+array.each do |num|
   
 squared_array.push(num**2)
 p num**2
